@@ -2,3 +2,13 @@
 /data
 *data
 
+.abc
+/abc
+*abc
+
+
+.venv312
+/venv312
+*venv312
+
+
